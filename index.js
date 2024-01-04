@@ -23,5 +23,5 @@ else if(randomVariable1>randomVariable2){
 
 }
 else{
-    document.querySelector("h1").innerHTML="player two won &#128542;";
+    document.querySelector("h1").innerHTML="player two won &#127873;";
 }
